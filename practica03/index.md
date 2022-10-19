@@ -1,6 +1,20 @@
 Python como calculadora y tipos básicos
 =======================================
 
+Objetivos
+---------
+
+ * Aprender a usar python en forma de calculadora
+ * Identificar la consola en spyder
+ * Conocer algunas instrucciones básicas de python
+   * Asignar valores a variables
+   * Crear expresiones aritméticas y lógicas
+   * Asignar valores a variables y crear fórmulas que permitan obtener datos de figuras geométricas conocidas a partir de variables de dichas figuras. P.e. Calcular el área de un círculo a partir de su radio.
+ * Observar los tipos de datos y las variables creadas en el explorador de variables de spyder
+
+Resumen
+-------
+
 Tipos básicos: 
 ```python
 a = 1 
@@ -119,3 +133,14 @@ int('1')
 float('1.0')
 int('1.0')
 ```
+
+Módulos de python: 
+
+Podemos importar distintos módulos de python para tener funcionalidad extra.
+
+```python
+import math
+x = 4
+y = math.sin(x) + math.cos(x)
+```
+
