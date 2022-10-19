@@ -1,5 +1,5 @@
-Python como calculadora y tipos básicos
-=======================================
+Práctica III. Python como calculadora y tipos básicos
+=====================================================
 
 Objetivos
 ---------
@@ -136,7 +136,7 @@ int('1.0')
 
 Módulos de python: 
 
-Podemos importar distintos módulos de python para tener funcionalidad extra.
+Podemos importar distintos módulos de python para tener funcionalidad extra. Por ejemplo el [módulo de matemáticas](https://docs.python.org/3/library/math.html):
 
 ```python
 import math
