@@ -18,6 +18,7 @@ Recursos y enlaces
 * Cómo conectarte a tu carpeta para enviar y descargar archivos:
   * De forma nativa a partir de Windows 10: [How to map SFTP as a drive on Windows 10](https://sftptogo.com/blog/how-to-map-sftp-as-a-windows-10-drive/)
   * Con FileZilla: [https://filezilla-project.org/](https://filezilla-project.org/)
+
 Pasos
 -----
 
