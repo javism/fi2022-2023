@@ -71,6 +71,8 @@ chmod o+r index.html
 
 Todos los subdirectorios que cuelguen de ```www-docs``` deberán tener los mismos permisos ```o+x```.
 
-Ahora abre la web [https://www.uco.es/users/TULOGIN](https://www.uco.es/users/login) o alternativamente [https://www.uco.es/~/TULOGIN](https://www.uco.es/~/login). Si todo va bien deberías ver una página web en blanco con el mensaje "¡Hola Mundo!". Si obtienes algún error revisa los pasos y permisos. 
+Ahora abre la web [https://www.uco.es/users/TULOGIN](https://www.uco.es/users/login) o alternativamente [https://www.uco.es/~TULOGIN](https://www.uco.es/~login). Ejemplo [https://www.uco.es/~i02samoj](https://www.uco.es/~i02samoj).
+
+Si todo va bien deberías ver una página web en blanco con el mensaje "¡Hola Mundo!". Si obtienes algún error revisa los pasos y permisos. 
 
 Si tienes curiosidad por HTML, el lenguaje de programación básico de páginas webs, puedes empezar por este [tutorial de HTML de W3Schools](https://www.w3schools.com/html/default.asp).
