@@ -63,7 +63,11 @@ Esto creará el fichero. Introduce el siguiente contenido, guarda y cierra el ed
 </html>
 ```
 
-Todos los ficheros bajo ```www-docs``` o sus subdirectorios deberán tener los permisos ```o+r``` para que el servidor web pueda leerlos.
+Todos los ficheros bajo ```www-docs``` o sus subdirectorios deberán tener los permisos ```o+r``` para que el servidor web pueda leerlos. Por ejemplo, para el `index.html`:
+
+```
+chmod o+r index.html
+```
 
 Todos los subdirectorios que cuelguen de ```www-docs``` deberán tener los mismos permisos ```o+x```.
 
