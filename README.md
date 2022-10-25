@@ -6,5 +6,5 @@ Este respositorio contiene apuntes básicos y simplificados del avance en cada s
 
 * [Práctica 01](practica01/index.md): comandos básicos de Linux y configuración de tu web personal en los servidores de la UCO.
 * [Práctica 03](practica03/index.md): python como calculadora y tipos básicos.
-* [Práctica 04](practica04/index.md): python como calculadora y tipos básicos.
+* [Práctica 04](practica04/index.md): entrada y salida con Python: pantalla, teclado y ficheros
   * [Cómo entregar tu práctica a través de tu web personal](practica04/entrega_practicas.md).
