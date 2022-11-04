@@ -17,7 +17,7 @@ Cómo documentar código Python
 Python ofrece varias alternativas de documentación. Por un lado, en cualquier momento podemos introducir comentarios con el carácter `#`:
 
 ```python
-def factorial_for(n):
+def factorial(n):
     f = 1
     # range hasta n+1 para que considere el propio número 
     for i in range(1, n+1):
@@ -34,7 +34,7 @@ Resumen `docstring`:
 * Los siguientes párrafos indican información adicional de funcionamiento, parámetros, ejemplos, etc. 
 * Cada línea debe empezar en mayúscula y terminar en ..
 
-Supongamos un fichero `factorial.py`:
+Supongamos un fichero `matematicas.py`:
 ```python
 def factorial(n):
     '''
@@ -49,7 +49,7 @@ def factorial(n):
 ```
 
 ```python
->>> from factorial import factorial
+>>> from matematicas import factorial
 >>> help(factorial)
 factorial(n)
     Función que calcula el factorial de un número.
@@ -61,7 +61,7 @@ Cierra y abre el terminal de python:
 
 ```python
 '''
-Módulo que calcula el factorial
+Módulo que calcula varias funciones matemáticas
 '''
 
 def factorial(n):
@@ -87,7 +87,7 @@ def factorial(n):
 
 
 ```python
-from factorial import factorial
+from matematicas import factorial
 help(factorial)
 
 Help on function factorial in module factorial:
@@ -107,17 +107,18 @@ factorial(n)
 
 Cómo generar una web con documentación a partir de pydoc o epydoc
 
-Si habéis instalado anaconda, desde el terminal esto general la web factorial.html que podés abrir con vuestro navegador.
+Si habéis instalado anaconda, desde el terminal esto general la web factorial.html que podés abrir con vuestro navegador. **NOTA: en este caso no ponemos la extensión .py**
 
 ```
-pydoc -w factorial
+pydoc -w matematicas
 ```
+
 
 Os debería salir algo así: 
-![Captura de la web factorial.html](captura_factorial.png "Captura de la web factorial generada con pydoc")
+![Captura de la web matematicas.html](captura_matematicas.png "Captura de la web matematicas generada con pydoc")
 
 Alternativamente, con epydoc, desde los ordenadores de las aulas también podéis hacer. 
 
 ```
-epydoc factorial.py 
+epydoc matematicas.py 
 ```

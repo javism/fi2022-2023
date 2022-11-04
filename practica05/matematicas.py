@@ -1,5 +1,5 @@
 '''
-Módulo que calcula el factorial
+Módulo que calcula varias funciones matemáticas
 '''
 
 def factorial(n):
