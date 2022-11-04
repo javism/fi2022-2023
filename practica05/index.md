@@ -87,22 +87,25 @@ def factorial(n):
 
 
 ```python
-from matematicas import factorial
-help(factorial)
+>>>import matematicas
+>>>help(matematicas)
 
-Help on function factorial in module factorial:
+Help on module matematicas:
 
-factorial(n)
-    Función que calcula el factorial de un número.
-    
-    Parameters
-    ----------
-    x : Int
-        Número para generar su factorial. 
-    
-    Returns
-    -------
-    Factorial de x.
+NAME
+    matematicas - Módulo que calcula varias funciones matemáticas
+
+FUNCTIONS
+    factorial(n)
+        Función que calcula el factorial de un número.
+        
+        Parameters
+        ----------
+        x : Int
+            Número para generar su factorial. 
+        
+        Returns
+        -------
 ```
 
 Cómo generar una web con documentación a partir de pydoc o epydoc
