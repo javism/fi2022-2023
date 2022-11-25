@@ -11,5 +11,5 @@ Este respositorio contiene apuntes básicos y simplificados del avance en cada s
 * [Práctica 05](practica05/index.md): control de flujo.
 * [Práctica 06](practica06/practica06.ipynb): vectores, matrices, listas, cadenas.
 * Práctica 07 se divide en dos notebooks: 
-  * [Práctica 07: tuplas y diccionarios](practica07/practica07_tuplas_diccionarios.ipynb).
-  * [Práctica 07: introducción básica a matplotlib](practica07/practica07_matplotlib.ipynb).
+  * Práctica 07: tuplas y diccionarios: [HTML con ejecución](practica07/practica07_tuplas_diccionarios.html) y [notebook](practica07/practica07_tuplas_diccionarios.ipynb).
+  * Práctica 07: introducción básica a matplotlib: [HTML con ejecución](practica07/practica07_matplotlib.html) y [notebook](practica07/practica07_matplotlib.ipynb).
