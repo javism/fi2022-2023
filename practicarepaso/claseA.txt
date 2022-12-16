@@ -1,0 +1,3 @@
+rafa; perez; 4,5
+monica; sanchez; 8,9
+paula; sanchez; 7,6

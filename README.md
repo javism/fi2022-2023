@@ -13,3 +13,5 @@ Este respositorio contiene apuntes básicos y simplificados del avance en cada s
 * Práctica 07 se divide en dos notebooks: 
   * Práctica 07: tuplas y diccionarios: [HTML con ejecución](practica07/practica07_tuplas_diccionarios.html) y [notebook](practica07/practica07_tuplas_diccionarios.ipynb).
   * Práctica 07: introducción básica a matplotlib: [HTML con ejecución](practica07/practica07_matplotlib.html) y [notebook](practica07/practica07_matplotlib.ipynb).
+
+* [Práctica Repaso](practicarepaso/): Ejemplos de resumen de la asignatura
