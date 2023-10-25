@@ -110,12 +110,15 @@ FUNCTIONS
 
 Cómo generar una web con documentación a partir de pydoc o epydoc
 
-Si habéis instalado anaconda, desde el terminal esto general la web factorial.html que podés abrir con vuestro navegador. **NOTA: en este caso no ponemos la extensión .py**
+Si habéis instalado anaconda, desde el terminal esto general la web factorial.html que podés abrir con vuestro navegador. **NOTA: en este caso no ponemos la extensión .py**.
+
+Debemos abrir el terminar en Linux o en Windows (con el programa Conda Prompt) en la carpeta de la práctica. Para ello puedes copiar la ruta pulsando `CTRL+L` en el navegador de archivos y poner `cd RUTA` y pulsar intro. A continuación puedes ejecutar lo siguiente: 
 
 ```
 pydoc -w matematicas
 ```
 
+Esto hay que repetirlo cuando hagáis cambios.
 
 Os debería salir algo así: 
 ![Captura de la web matematicas.html](captura_matematicas.png "Captura de la web matematicas generada con pydoc")
